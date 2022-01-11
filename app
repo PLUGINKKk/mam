@@ -1,1 +1,1 @@
-[{"u":"up","t":"title","abo":"about","ubo":"updatelink","pw":"၂၀၂၀","link":"https://myfavouritemanhwamanhuacollection.blogspot.com/","oo":"0"}]
+[{"u":"up","t":"title","abo":"about","ubo":"updatelink","pw":"၂၀၂၀","link":"https://myfavouritemanhwamanhuacollection.blogspot.com/","oo":"0","link1":"https://www.youtube.com/watch?v=iGFbwCznMjY&list=RDiGFbwCznMjY&start_radio=","link2":"https://www.youtube.com/"}]
